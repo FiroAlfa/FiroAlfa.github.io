@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:12px; }
+
+
+
+#top{ display:block; margin:auto;}
+
+.gambar-tengah{
+			text-align:center;
+		}
+
+.gambar-kiri{
+			text-align:left;
+		}		
+		
+.gambar-kanan{
+			text-align:right;
+		}
+		
+.form-background{
+		background-color:#95c205;
+}
+
+.btn-background{
+		background-color:#95c205;
+}
+
+.warna-hijau{
+	color:blue;
+}
+
+.tagline {
+    font-size: 30px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 100%;
+    line-height: 60px;
+    color: #1189cc;
+}
+
+.therule {
+    font-size: 20px;
+    color: #1189cc;
+}
+
+.content ul li {
+    font-size: 21px;
+    line-height: 40px;
+    color: #afb4b8;
+}
+
+.like-btn{width:52px; height:25px;}
+
+.image1{width:840px; height:367px; display:block;}
+
+#text{width:590px; height:30px; display:block; margin:0 auto; margin-top:24px;}
+
+.bodytext{font-family:Verdana, Geneva, sans-serif; font-size:24px; color:#00a2ff; text-decoration:none; font-style:normal; font-weight:bold;}
+
+.btn-view-girls{width:427px; height:95px; margin:0 auto; display:block;}
+
+.links{background-color:#e9e9e9; text-align:center;}
+.links ul { list-style:none; list-style-type:none; padding-top:4px;}
+.links ul li { list-style:none; list-style-type:none; color:#000000; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold;display:inline; padding-right:10px; padding-left:10px; border-left:1px #000 solid; text-align:center;}
+
+.links ul li:first-child{ border-left:none;} 
+
+.common-text{ text-align:center; margin-top:22px; margin-bottom:12px;}
